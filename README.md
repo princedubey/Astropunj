@@ -1,7 +1,7 @@
 # AstroPunj - Your Personal Astrology Guide 🌟
 
 <div align="center">
-  <img src="/ap-logo.png" alt="AstroPunj Logo" width="120" height="120" />
+  <img src="./public/astropunj-tr-logo.png" alt="AstroPunj Logo" width="120" height="120" />
   <br />
   <p><strong>Your personal astrology guide, bringing cosmic wisdom to your daily life</strong></p>
 </div>
